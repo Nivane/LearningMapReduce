@@ -1,5 +1,6 @@
-# LearningMapReduce
-All about learning MapReduce
+# All About MapReduce Codes
 
 2018/06/23
-3 source classes: Three Basic Classes To Run A MapReduce Job
+map + reduce + job
+2018/08/13
+writable writablecomparable rawcomparator writablecomparator writableutils intwritable
